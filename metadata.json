@@ -1,0 +1,9 @@
+{
+  "name": "JobSentry: The 24-Hour Autonomous Job Hunter",
+  "description": "An autonomous job discovery and outreach platform that finds new postings every 24 hours and generates personalized LinkedIn and Email messages using Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
